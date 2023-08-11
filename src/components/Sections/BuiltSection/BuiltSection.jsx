@@ -14,32 +14,32 @@ const BuiltSection = () => {
                 <p className="text-lg">We built a protocol with vast improvements over the existing options market.</p>
             </div>
             <div className="grid lg:grid-cols-2 gap-6 my-8">
-                <div className="flex m-5 p-5 gap-5 items-center justify-center">
-                    <h2>hello</h2>
+                <div className="flex m-5 p-10 gap-5 items-center justify-center">
+                    <h2>ICON</h2>
                     <div>
                         <h1 className="font-medium text-lg">Staking Yield</h1>
-                        <p className="font-light text-lg">Your collateral never goes un-used and is put to work by staking in other protocols to earn yields.</p>
+                        <p className="font-light text-lg mt-3">Your collateral never goes un-used and is put to work by staking in other protocols to earn yields.</p>
                     </div>
                 </div>
-                <div className="flex m-5 p-5 gap-5 items-center justify-center">
-                    <h2>hello</h2>
+                <div className="flex m-5 p-10 gap-5 items-center justify-center">
+                    <h2>ICON</h2>
                     <div>
                         <h1 className="font-medium text-lg">Collateral Borrowing</h1>
-                        <p className="font-light text-lg">Atlantic options offer buyers with unique products like applying straddle strategies with a fraction of the cost and insuring leveraged longs.</p>
+                        <p className="font-light text-lg mt-3">Atlantic options offer buyers with unique products like applying straddle strategies with a fraction of the cost and insuring leveraged longs.</p>
                     </div>
                 </div>
-                <div className="flex m-5 p-5 gap-5 items-center justify-center">
-                    <h2>hello</h2>
+                <div className="flex m-5 p-10 gap-5 items-center justify-center">
+                    <h2>ICON</h2>
                     <div>
                         <h1 className="font-medium text-lg">Minimize Risk</h1>
-                        <p className="font-light text-lg">Offset risk and minimize losses as a liquidity provider with rDPX rebates.</p>
+                        <p className="font-light mt-3 text-lg">Offset risk and minimize losses as a liquidity provider with rDPX rebates.</p>
                     </div>
                 </div>
-                <div className="flex m-5 p-5 gap-5 items-center justify-center">
-                    <h2>hello</h2>
+                <div className="flex m-5 p-10 gap-5 items-center justify-center">
+                    <h2>ICON</h2>
                     <div>
                         <h1 className="font-medium text-lg">Pricing Efficiency</h1>
-                        <p className="font-light text-lg">Our options collateral efficiency gives Dopex a distinct advantage in pricing, allowing for immediate arbitrage opportunities.</p>
+                        <p className="font-light mt-3 text-lg">Our options collateral efficiency gives Dopex a distinct advantage in pricing, allowing for immediate arbitrage opportunities.</p>
                     </div>
                 </div>
             </div>
