@@ -6,10 +6,10 @@ const Banner = () => {
                 <h1 style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="uppercase text-5xl font-semibold my-5">DECENTRALIZED OPTIONS EXCHANGE</h1>
                 <p className="text-lg my-5">Dopex is a maximum liquidity and minimal exposure options protocol</p>
                 <div className=" my-5">
-                    <button className="btn btn-primary mx-2 btn-sm">
+                    <button className="btn btn-primary normal-case mx-2 btn-sm">
                         Use Alishan
                     </button>
-                    <button className="btn btn-outline btn-primary mx-2 btn-sm">
+                    <button className="btn btn-outline normal-case btn-primary mx-2 btn-sm">
                         Documentation
                     </button>
                 </div>
