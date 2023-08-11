@@ -1,7 +1,7 @@
 
 const Banner = () => {
     return (
-        <div className="mt-20 px-10">
+        <div className="mt-20 px-5">
             <div className="text-center mb-28">
                 <h1 style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="uppercase text-5xl font-semibold my-5">DECENTRALIZED OPTIONS EXCHANGE</h1>
                 <p className="text-lg my-5">Dopex is a maximum liquidity and minimal exposure options protocol</p>
@@ -14,7 +14,7 @@ const Banner = () => {
                     </button>
                 </div>
             </div>
-            <div className="grid gap-12 md:grid-cols-3 text-center md:px-10">
+            <div className="grid gap-12 md:grid-cols-3 text-center md:px-10 lg:mt-52 lg:mb-32">
                 <div className="flex flex-col space-y-3 items-center px-8">
                     <p style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="text-xl m-3">STRUCTURED</p>
                     <h1 className="text-2xl m-3 font-bold">SSOV OPTIONS</h1>

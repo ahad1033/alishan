@@ -9,7 +9,7 @@ const NavBar = () => {
     </>
 
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 py-7">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -28,7 +28,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="btn btn-primary normal-case">Use Alishan</a>
+                <a style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="btn btn-primary normal-case btn-sm">Use Alishan</a>
             </div>
         </div>
     );
