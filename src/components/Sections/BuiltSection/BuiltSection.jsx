@@ -3,7 +3,13 @@ const BuiltSection = () => {
     return (
         <div className="bg-white rounded-2xl shadow-2xl px-10 py-6 md:px-6">
             <div className="text-center mt-5">
-                <p style={{ fontFamily: "'JetBrains Mono', sans-serif" }} className="text-xl m-6">BUILT DIFFERENT</p>
+                <p style={{
+                    fontFamily: "'JetBrains Mono', sans-serif",
+                    color: 'transparent',
+                    backgroundImage: 'linear-gradient(170deg, #22e1ff, #1d8fe1 51.79%, #625eb1)',
+                    WebkitBackgroundClip: 'text',
+                    backgroundClip: 'text',
+                }} className="text-xl m-6">BUILT DIFFERENT</p>
                 <h1 className="text-4xl m-6 uppercase font-bold">DEFI FIRST & POWERFUL OPTIONS</h1>
                 <p className="text-lg">We built a protocol with vast improvements over the existing options market.</p>
             </div>
